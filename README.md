@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ammani
 A passionate Java Full Stack Developer from India.
-A Strong foundation in Front End Developer skilled in building responsive websites, interactive games, and user-friendly web applications.
+and A Strong foundation in Front End Developer skilled in building responsive websites, interactive games, and user-friendly web applications.
 
 ## 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript,React JS, Node JS
 - **Tools:** VS Code, Git, GitHub  
 - **Other:** Responsive Design, UI Development  
-- React JS, Node JS, MongoDB,SQl
-- Java,JDBC,Hibernate,SpringBoot,Spring,Microservice
+- **Database:**MongoDB,SQl,PLSQL
+- **Backend:**Java,JDBC,Hibernate,SpringBoot,Spring,Microservice
 
 
 I build clean,responsive,and interactive website using HTML,CSS and JavaScript.
@@ -21,7 +21,7 @@ Here are some of my recent projects:
 **Tech Stack:** HTML, CSS, JavaScript  
 A responsive food ordering website with categories, featured dishes, cart modal, and interactive UI.
 
-🔗 **GitHub Repo:** *(Add your repo link here)*  
+🔗 **GitHub Repo:** (https://github.com/Ammani168/foodie-delight)*  
 📌 **Features**
 - Homepage with hero section  
 - Dynamic product display  
@@ -34,7 +34,7 @@ A responsive food ordering website with categories, featured dishes, cart modal,
 **Tech Stack:** HTML, CSS, JavaScript  
 A browser-based Snake Game with real-time movement, scoring system, sound effects, and collision detection.
 
-🔗 **GitHub Repo:** *(Add your repo link here)*  
+🔗 **GitHub Repo:** *(https://github.com/Ammani168/snake-game)*  
 📌 **Features**
 - Grid-based movement  
 - Sound effects (move, food, game-over)  
@@ -47,7 +47,7 @@ A browser-based Snake Game with real-time movement, scoring system, sound effect
 **Tech Stack:** HTML, CSS, JavaScript  
 Signup form with client-side validation for name, email, DOB, password, confirm password & terms checkbox.
 
-🔗 **GitHub Repo:** *(Add your repo link here)*  
+🔗 **GitHub Repo:** *(https://github.com/Ammani168/Signup-form-validation)*  
 📌 **Features**
 - Real-time error messages  
 - Strong password checks  
