@@ -57,7 +57,7 @@ Signup form with client-side validation for name, email, DOB, password, confirm 
 ---
 
 ## 📫 Contact
-- **Email:** yourmail@example.com  
+- **Email:**  gammani2003@gmail.com
 - **GitHub:** https://github.com/Ammani168 
 
 ---
