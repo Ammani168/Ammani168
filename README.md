@@ -21,7 +21,7 @@ Here are some of my recent projects:
 **Tech Stack:** HTML, CSS, JavaScript  
 A responsive food ordering website with categories, featured dishes, cart modal, and interactive UI.
 
-🔗 **GitHub Repo:** (https://github.com/Ammani168/foodie-delight)*  
+🔗 **GitHub Repo:** (https://github.com/Ammani168/Food-Delight)*  
 📌 **Features**
 - Homepage with hero section  
 - Dynamic product display  
@@ -47,7 +47,7 @@ A browser-based Snake Game with real-time movement, scoring system, sound effect
 **Tech Stack:** HTML, CSS, JavaScript  
 Signup form with client-side validation for name, email, DOB, password, confirm password & terms checkbox.
 
-🔗 **GitHub Repo:** *(https://github.com/Ammani168/Signup-form-validation)*  
+🔗 **GitHub Repo:** *(https://github.com/Ammani168/Sign-Up-Form-Validation)*  
 📌 **Features**
 - Real-time error messages  
 - Strong password checks  
